@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tugasINNOVINE-STUDIO-INDONESIA/static/css/main.bae71e8c.css",
+    "main.js": "/tugasINNOVINE-STUDIO-INDONESIA/static/js/main.a9830c93.js",
+    "static/js/787.bd1301ad.chunk.js": "/tugasINNOVINE-STUDIO-INDONESIA/static/js/787.bd1301ad.chunk.js",
+    "index.html": "/tugasINNOVINE-STUDIO-INDONESIA/index.html",
+    "main.bae71e8c.css.map": "/tugasINNOVINE-STUDIO-INDONESIA/static/css/main.bae71e8c.css.map",
+    "main.a9830c93.js.map": "/tugasINNOVINE-STUDIO-INDONESIA/static/js/main.a9830c93.js.map",
+    "787.bd1301ad.chunk.js.map": "/tugasINNOVINE-STUDIO-INDONESIA/static/js/787.bd1301ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bae71e8c.css",
+    "static/js/main.a9830c93.js"
+  ]
+}
